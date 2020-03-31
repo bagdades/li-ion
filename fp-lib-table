@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 3310)(type KiCad)(uri /home/vovan/projects/li-ion/kicad-libs-master/footprints/LCD_Connectors.pretty)(options "")(descr ""))
+  (lib (name 51q0)(type KiCad)(uri /home/vovan/projects/li-ion/kicad-libs-master/footprints/Nokia_5110-3310_LCD.pretty)(options "")(descr ""))
+)
